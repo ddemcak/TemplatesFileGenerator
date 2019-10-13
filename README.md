@@ -1,2 +1,4 @@
-# TemplatesFileGenerator
-Tool for automate templates creation 
+# Templates File Generator
+Tool for automate templates creation.
+
+
