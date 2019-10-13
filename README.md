@@ -1,5 +1,5 @@
 # Templates File Generator (and Reverser)
-Tool for automate templates creation.
+PowerShell scripts for automate templates creation.
 When you need to generate a lot of configuration files based on template and some table data modified data, this set of scripts can help to achieve the goal.
 
 ## Generator
