@@ -9,7 +9,7 @@ This script requires 4 arguments:
 * Output directory name
 * Template filename
 * CSV data filename
-* Delimter
+* Delimter (usually comma or tab)
 
 ### How to use
 * Download of pull.
@@ -20,13 +20,13 @@ This script requires 4 arguments:
 * Chech the results and thank later :-). 
 
 ## Reverser
-Reconstructs template and CSV data from set of configuration files.
+Reconstructs template and CSV data from set of configuration files in a folder.
 
 This script requires 4 arguments:
 * Input directory name
 * Generated Template filename
 * Generated CSV data filename
-* Delimter
+* Delimter (usually comma or tab)
 
 ### How to use
 * Download of pull.
